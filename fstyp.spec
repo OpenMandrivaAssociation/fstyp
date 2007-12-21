@@ -9,6 +9,7 @@ Summary: A filesystem type identifier
 Source: http://mkp.net/fstyp/%{name}-0.1.tar.gz
 URL:    http://mkp.net/fstyp
 Group:  File tools 
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 License: GPL
 
 %description
