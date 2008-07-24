@@ -1,6 +1,6 @@
 %define name   fstyp
 %define version 0.1
-%define release %mkrel 4
+%define release %mkrel 6
 
 Name: %name
 Version: %version
