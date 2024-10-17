@@ -7,7 +7,7 @@ Version: %version
 Release: %release
 Summary: A filesystem type identifier
 Source: http://mkp.net/fstyp/%{name}-0.1.tar.gz
-URL:    http://mkp.net/fstyp
+URL:    https://mkp.net/fstyp
 Group:  File tools 
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 License: GPL
