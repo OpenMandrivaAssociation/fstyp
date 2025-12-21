@@ -12,6 +12,11 @@ Group:  File tools
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 License: GPL
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 Utility to heuristically determine filesystem type of a partition.
 
